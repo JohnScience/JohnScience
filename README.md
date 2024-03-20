@@ -11,9 +11,9 @@ I'm a Middle+ Software Engineer with [over a decade of experience](https://githu
 * 📦 Open-source,
 * 💻 Full-stack (80% backend),
 * 📱 Cross-platform,
-* 🌐 Cross-language interoperability.
+* 🌐 Cross-language interoperability[^1].
 
-I'm a down-to-earth guy who practices the arts of humble brag and setting sane expectations.
+I'm a down-to-earth guy who learns the arts of humble brag and setting sane expectations.
 
 <br/>
 
@@ -28,3 +28,5 @@ I'm a down-to-earth guy who practices the arts of humble brag and setting sane e
 ## Disclaimer
 
 The author is playin' with his profile.
+
+[^1]: [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface), [WebAssembly](https://webassembly.org/), and stuff. I can write code for nearly any other programming language using Rust.
