@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <div align="center">
 	<br>
-    <img src="header.svg" width="800" height="400" alt="Hello">
+    <span>Hi there, </span><img src="header.svg" width="256" height="256" alt="Hello"><span>, I'm Dmitrii Demenev.</span>
 	<br>
 </div>
