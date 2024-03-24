@@ -13,7 +13,7 @@ I'm a Middle+ Software Engineer with [over a decade of experience](https://githu
 * 📱 Cross-platform,
 * 🌐 Cross-language interoperability[^1].
 
-I'm a down-to-earth guy who learns the arts of humble brag and setting sane expectations.
+I'm a down-to-earth guy who learns the arts of humble brag and setting sane expectations to be trusted but not expected to do the factually impossible [^2].
 
 <br/>
 
@@ -30,3 +30,4 @@ I'm a down-to-earth guy who learns the arts of humble brag and setting sane expe
 The author is playin' with his profile.
 
 [^1]: [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface), [WebAssembly](https://webassembly.org/), and stuff. I can write code for nearly any other programming language using Rust.
+[^2]: I love the challenge and to make the seemingly impossible things the reality.
