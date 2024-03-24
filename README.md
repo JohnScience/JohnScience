@@ -11,7 +11,7 @@ I'm a Middle+ Software Engineer with [over a decade of experience](https://githu
 * 📦 Open-source,
 * 💻 Full-stack (80% backend),
 * 📱 Cross-platform,
-* 🌐 Cross-language interoperability[^1].
+* 🌐 Cross-language interoperability [^1].
 
 I'm a down-to-earth guy who learns the arts of humble brag and setting sane expectations to be trusted but not expected to do the factually impossible [^2].
 
@@ -24,6 +24,12 @@ I'm a down-to-earth guy who learns the arts of humble brag and setting sane expe
 </div>
 
 ---
+
+## Achievements
+
+* ⭐ **Star shooter**. I was one of the first 25 software developers at Moonton, the company behind [Mobile Legends: Bang Bang](https://en.wikipedia.org/wiki/Mobile_Legends:_Bang_Bang). This game alone brought the lifetime gross revenue of over $1,106,530,000 USD.
+* 📦 **That guy from ~~Nebraska~~ Calgary** ([reference](https://www.explainxkcd.com/wiki/images/d/d7/dependency.png)). My Rust crates have been downloaded from crates.io over 500,000 times (see the live count for yourself with [Google Collab](https://colab.research.google.com/drive/1ReRvXieC7VjOHVda4f1SSGVy5ZGwrMJn?usp=sharing)).
+* 🌲 **From little seeds grow mighty trees**. Started coding at the age of 10. My dad was a professor at a university and a double PhD in Physics and Mathematics who decided to teach me some C and C++ while I was young. [Rest in peace, dad](https://www.perm.kp.ru/online/news/4474897/).
 
 ## Disclaimer
 
