@@ -32,7 +32,7 @@ I'm a down-to-earth guy who learns the arts of humble brag and setting sane expe
 * 📦 **That guy from ~~Nebraska~~ Calgary** ([reference](https://www.explainxkcd.com/wiki/images/d/d7/dependency.png)). My Rust crates have been downloaded from crates.io over 500,000 times (see the live count for yourself with [Google Collab](https://colab.research.google.com/drive/1ReRvXieC7VjOHVda4f1SSGVy5ZGwrMJn?usp=sharing)).
 * 📚 **Recognized expert**. Achieved recognition as a SME (Subject Matter Expert) in Rust by Coursera. Technically, they just called me this way in a message. But it counts, right?
 * 🌲 **From little seeds grow mighty trees**. Started coding at the age of 10. My dad was a professor at a university and a double PhD in Physics and Mathematics who decided to teach me some C and C++ while I was young. [Rest in peace, dad](https://www.perm.kp.ru/online/news/4474897/).
-* ⌨️ **Prolific code monkey** ([reference](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)). Over 200 total GitHub repositories, among which over 100 are public.
+* ⌨️ **Prolific code monkey** ([reference](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)). Over 200 total GitHub repositories, among which over 100 are public. None of them is Hamlet, yet there are some interesting ones.
 
 ## Disclaimer
 
