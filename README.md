@@ -15,6 +15,8 @@ I'm a Middle+ Software Engineer with [over a decade of experience](https://githu
 
 I'm a down-to-earth guy who learns the arts of humble brag and setting sane expectations to be trusted but not expected to do the factually impossible [^2].
 
+I consider myself a pragmatist[^3] and an eccletic individual.
+
 <br/>
 
 <div align="center" width = "600" height = "300">
@@ -40,3 +42,4 @@ The author is playin' with his profile.
 
 [^1]: [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface), [WebAssembly](https://webassembly.org/), and stuff. I can write code for nearly any other programming language using Rust.
 [^2]: I love the challenge and to make the seemingly impossible things the reality.
+[^3]: <https://medium.com/@pronskiy/the-great-doctrine-or-10-simple-rules-that-any-developer-should-follow-d0e4b92bd62a>
