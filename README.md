@@ -37,9 +37,9 @@ I consider myself a pragmatist[^3] and an ecletic individual.
 * ⌨️ **Prolific code monkey** ([reference](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)). Over 200 total GitHub repositories, among which over 100 are public. None of them is Hamlet, yet there are some interesting ones.
 * 💪 **Master of my own destiny**. I stayed clear from ever consuming memes, smoking, drinking, or using drugs. I never came close to reaching the rock bottom mentally and stoically endured all the hardships in life. I work out and, as of April 21, have a 250+ day long streak of learning French on Duolingo.
 
-## Disclaimer
+## Also see
 
-The author is playin' with his profile.
+* [My biography from the perspective of commercial programming](https://github.com/JohnScience/my_com_projs).
 
 [^1]: [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface), [WebAssembly](https://webassembly.org/), and stuff. I can write code for nearly any other programming language using Rust.
 [^2]: I love the challenge and to make the seemingly impossible things the reality.
