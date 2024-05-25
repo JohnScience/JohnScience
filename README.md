@@ -15,7 +15,7 @@ I'm a Middle+ Software Engineer with [over a decade of experience](https://githu
 
 I'm a down-to-earth guy who learns the arts of humble brag and setting sane expectations to be trusted but not expected to do the factually impossible [^2].
 
-I consider myself a pragmatist[^3] and an eudaimonic[^4] and ecletic individual.
+I consider myself a pragmatist[^3] and an eudaimonic[^4] and eclectic individual.
 
 <br/>
 
