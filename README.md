@@ -15,7 +15,7 @@ I'm a Middle+ Software Engineer with [over a decade of experience](https://githu
 
 I'm a down-to-earth guy who learns the arts of humble brag and setting sane expectations to be trusted but not expected to do the factually impossible [^2].
 
-I consider myself a pragmatist[^3] and an ecletic individual.
+I consider myself a pragmatist[^3] and an eudaimonic[^4] and ecletic individual.
 
 <br/>
 
@@ -35,7 +35,7 @@ I consider myself a pragmatist[^3] and an ecletic individual.
 * 📚 **Recognized expert**. Achieved recognition as a SME (Subject Matter Expert) in Rust by Coursera. Technically, they just called me this way in a message. But it counts, right?
 * 🌲 **From little seeds grow mighty trees**. Started coding at the age of 10. My dad was a professor at a university and a double PhD in Physics and Mathematics who decided to teach me some C and C++ while I was young. [Rest in peace, dad](https://www.perm.kp.ru/online/news/4474897/).
 * ⌨️ **Prolific code monkey** ([reference](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)). Over 200 total GitHub repositories, among which over 100 are public. None of them is Hamlet, yet there are some interesting ones.
-* 💪 **Master of my own destiny**. I stayed clear from ever consuming memes, smoking, drinking, or using drugs. I never came close to reaching the rock bottom mentally and stoically endured all the hardships in life. I work out and, as of April 21, have a 250+ day long streak of learning French on Duolingo.
+* 💪 **Master of my own destiny**. I stayed clear from ever consuming memes, smoking, drinking, or using drugs. I never came close to reaching the rock bottom mentally and stoically endured all the hardships in life. I work out and, as of May 25, have a 280+ day long streak of learning French on Duolingo.
 
 ## Also see
 
@@ -44,3 +44,4 @@ I consider myself a pragmatist[^3] and an ecletic individual.
 [^1]: [FFI](https://en.wikipedia.org/wiki/Foreign_function_interface), [WebAssembly](https://webassembly.org/), and stuff. I can write code for nearly any other programming language using Rust.
 [^2]: I love the challenge and to make the seemingly impossible things the reality.
 [^3]: <https://medium.com/@pronskiy/the-great-doctrine-or-10-simple-rules-that-any-developer-should-follow-d0e4b92bd62a>
+[^4]: By that I mean that I derive the majority of my happiness from eudaimonics. More on the topic here: https://youtu.be/ry0zG2n0Hyg?si=lZNFmPiirzF7Kcal&t=221
