@@ -35,7 +35,7 @@ I consider myself a pragmatist[^3] and an eudaimonic[^4] and eclectic individual
 * 📚 **Recognized expert**. Achieved recognition as a SME (Subject Matter Expert) in Rust by Coursera. Technically, they just called me this way in a message. But it counts, right?
 * 🌲 **From little seeds grow mighty trees**. Started coding at the age of 10. My dad was a professor at a university and a double PhD in Physics and Mathematics who decided to teach me some C and C++ while I was young. [Rest in peace, dad](https://www.perm.kp.ru/online/news/4474897/).
 * ⌨️ **Prolific code monkey** ([reference](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)). Over 200 total GitHub repositories, among which over 100 are public. None of them is Hamlet, yet there are some interesting ones.
-* 💪 **Master of my own destiny**. I stayed clear from ever consuming memes, smoking, drinking, or using drugs. I never came close to reaching the rock bottom mentally and stoically endured all the hardships in life. I work out and, as of May 25, have a 280+ day long streak of learning French on Duolingo.
+* 💪 **Master of my own destiny**. I stayed clear from ever consuming memes, smoking, drinking, or using drugs. I never came close to reaching the rock bottom mentally and stoically endured all the hardships in life. I work out and, as of July 7, have a 320+ day long streak of learning French on Duolingo.
 
 ## Also see
 
