@@ -5,7 +5,7 @@
 	<br>
 </div>
 
-I'm a Middle+ Software Engineer with [over a decade of experience](https://github.com/JohnScience/my_com_projs) who does
+I'm a Senior Software Engineer with [over a decade of experience](https://github.com/JohnScience/my_com_projs) who does
 
 * 🦀 Rust,
 * 📦 Open-source,
