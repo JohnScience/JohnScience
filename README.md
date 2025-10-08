@@ -30,12 +30,14 @@ I consider myself a pragmatist[^3] and an eudaimonic[^4] and eclectic individual
 ## Achievements
 
 * ⭐ **Star shooter**. I was one of the first 25 software developers at Moonton, the company behind [Mobile Legends: Bang Bang](https://en.wikipedia.org/wiki/Mobile_Legends:_Bang_Bang). This game alone generated the lifetime gross revenue of over $1,106,530,000 USD.
+* ⚡ **Once is an accident, twice is a coincidence, three times is a pattern**. I was one of the first 5 developers at [Searchless Inc](https://searchless.ca/), the company that became the [top-100 AI startup in Canada, 2025](https://allinevent.ai/blogs/blog/2025-top-100).
 * 🤝 **Trusted**. I authored the [`qualifier_attr`](https://github.com/JohnScience/qualifier_attr) Rust crate, which became a dependency of Solana (24-hour trading volume of $355,645,065.28 USD).
-* 📦 **That guy from ~~Nebraska~~ Calgary** ([reference](https://www.explainxkcd.com/wiki/images/d/d7/dependency.png)). My Rust crates have been downloaded from crates.io over 800,000 times (see the live count for yourself with [Google Collab](https://colab.research.google.com/drive/1ReRvXieC7VjOHVda4f1SSGVy5ZGwrMJn?usp=sharing)).
+* 📦 **That guy from ~~Nebraska~~ Calgary** ([reference](https://www.explainxkcd.com/wiki/images/d/d7/dependency.png)). My Rust crates have been downloaded from crates.io over 5,000,000 times (see the live count for yourself with [Google Collab](https://colab.research.google.com/drive/1ReRvXieC7VjOHVda4f1SSGVy5ZGwrMJn?usp=sharing)).
 * 📚 **Recognized expert**. Achieved recognition as a SME (Subject Matter Expert) in Rust by Coursera. Technically, they just called me this way in a message. But it counts, right?
+* 👑 **Top 1%**. Top 1% Rust engineers globally, according to [Algora.io](https://algora.io/profile/JohnScience).
 * 🌲 **From little seeds grow mighty trees**. Started coding at the age of 10. My dad was a professor at a university and a double PhD in Physics and Mathematics who decided to teach me some C and C++ while I was young. [Rest in peace, dad](https://www.perm.kp.ru/online/news/4474897/).
 * ⌨️ **Prolific code monkey** ([reference](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)). Over 200 total GitHub repositories, among which over 100 are public. None of them is Hamlet, yet there are some interesting ones.
-* 💪 **Master of my own destiny**. I stayed clear from ever consuming memes, smoking, drinking, or using drugs. I never came close to reaching the rock bottom mentally and stoically endured all the hardships in life. I work out and, as of July 7, have a 320+ day long streak of learning French on Duolingo.
+* 💪 **Master of my own destiny**. I stayed clear from ever consuming memes, smoking, drinking, or using drugs. I never came close to reaching the rock bottom mentally and stoically endured all the hardships in life. I work out and, as of October 8 (2025), have a 730+ day long streak of learning French on Duolingo.
 
 ## Also see
 
